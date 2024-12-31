@@ -660,7 +660,7 @@ footer{
     display: none;
 }
 .menu-ul-respon{
-    position: sticky;
+    position: fixed;
     display: flex;
     flex-direction: column;
     gap: 20px;
